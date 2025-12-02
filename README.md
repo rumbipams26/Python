@@ -18,7 +18,7 @@ A collection of Python projects focused on data analysis, numerical computing, a
 
 📈 Projects: 
 --------------------------------------------------
-Project 1: Exploring Weather Data Using NumPy
+Project 1: Exploring Weather Data Using NumPy 
 
 Project 2: 
 
